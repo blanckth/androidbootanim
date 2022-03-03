@@ -1,0 +1,7 @@
+1080 2400 15
+c 1 0 part0
+c 1 6 part1
+c 1 6 part2
+c 3 15 part3
+f 0 0 part3 30
+
